@@ -1,0 +1,2 @@
+# TimerAndQuartzDemo
+本仓库将介绍简单的Timer和Quartz的使用，届时也会结合编写Spring+Quartz的代码。
